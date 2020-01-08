@@ -1,1 +1,0 @@
-Then, in a 10,5 km range I've searched for all the nightclubs which can be beneficial for my future restaurant  and all the already existing same-type restaurants. All that combined in a map, all created with the location data provided from Foursquare.
